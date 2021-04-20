@@ -1,0 +1,36 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Curso Angular",
+      "validade": "2021-12-31",
+      "preco": 500.5
+    },
+    {
+      "nome": "Curso de Java",
+      "validade": "2022-10-05",
+      "preco": 1520,
+      "id": 2
+    }
+  ],
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Alessandro",
+      "telefone": "(14) 91234-5677",
+      "cidade": "Marília"
+    },
+    {
+      "nome": "Rafael dos Santos",
+      "cidade": "Marília",
+      "telefone": "(14) 3421-2588",
+      "id": 3
+    },
+    {
+      "nome": "Cliente Vercel",
+      "cidade": "Garça",
+      "telefone": "(15) 98567-9666",
+      "id": 4
+    }
+  ]
+}
